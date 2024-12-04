@@ -1,12 +1,9 @@
 # AI_Assigment
 
-<div class="noheader firstcol">
-                  |             
-------------------|-------------
+
 name              | Keenan Clegg
 computer + OS     | my Windows laptop
 time to complete  | 2 hours
-</div>
 
 Reflection
 ===========
