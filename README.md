@@ -1,9 +1,9 @@
 # AI_Assigment
 
 
-name              | Keenan Clegg
-computer + OS     | my Windows laptop
-time to complete  | 2 hours
+name                Keenan Clegg |
+computer + OS       my Windows laptop |
+time to complete    2 hours |
 
 Reflection
 ===========
